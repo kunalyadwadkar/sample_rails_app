@@ -30,7 +30,7 @@ Next, migrate the database:
 git 
 
 '''
-$ rails db:migrate
+$ rails db:migrate 
 ''' 
 
 
